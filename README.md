@@ -145,7 +145,7 @@ The `README.md` file contains the project explanation and instructions. The `req
 
 This dashboard was developed as a group project for BUS 601 at California State University, East Bay. 
 
-Harman Grewal
-Khanh Le
-Nishanth Palanisamy
-Alyssa Vasquez
+- Harman Grewal
+- Khanh Le
+- Nishanth Palanisamy
+- Alyssa Vasquez
