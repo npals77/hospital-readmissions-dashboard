@@ -140,3 +140,12 @@ http://localhost:8501
 ```
 
 The `README.md` file contains the project explanation and instructions. The `requirements.txt` file contains only the Python packages needed to run the application.
+
+##Team Members
+
+This dashboard was developed as a group project for BUS 601 at California State University, East Bay. 
+
+Harman Grewal
+Khanh Le
+Nishanth Palanisamy
+Alyssa Vasquez
